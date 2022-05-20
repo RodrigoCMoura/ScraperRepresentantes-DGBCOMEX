@@ -37,4 +37,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-RodrigoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moura-1b7652a2)](https://www.linkedin.com/in/rodrigo-moura-1b7652a2)
-[![Gmail Badge](https://img.shields.io/badge/-romoura1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romoura1994@gmail.com)](mailto:romoura1994@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-romoura1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romoura1994@gmail.com)](mailto:romoura1994@gmail.com).
