@@ -1,6 +1,6 @@
 # Automação e Web Scraping 
 
-<h1 align="left">
+<h1 align="center">
     <img alt="ScraperDateTime" title="ScraperDateTime" src=".github/ROBOT.png" />
 </h1>
 
